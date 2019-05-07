@@ -84,7 +84,14 @@
 }
 .table_cell {
 }
+._连接线 {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
 .snapshot {
 }
 ._形状 {
+}
+.flow_shape {
 }
